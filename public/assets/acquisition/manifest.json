@@ -1,0 +1,173 @@
+[
+  {
+    "originalFile": "scraped-02.jpg",
+    "file": "photos/restaurant/kaffeestand-im-freien-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Kaffeestand im Freien",
+    "subjectSlug": "kaffeestand-im-freien",
+    "description": "Ein orangefarbener Kaffeestand mit der Aufschrift 'noli' und Kaffeemaschinen im Freien, mit einem 'Coming Soon'-Schild im Vordergrund."
+  },
+  {
+    "originalFile": "scraped-03.jpg",
+    "file": "photos/dishes/eiskaffee-mit-zimt-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Eiskaffee mit Zimt",
+    "subjectSlug": "eiskaffee-mit-zimt",
+    "description": "Ein Eiskaffee mit Zimt auf einer Theke in einem hellen Ambiente."
+  },
+  {
+    "originalFile": "scraped-04.jpg",
+    "file": "photos/dishes/kaffee-mit-latte-art-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Kaffee mit Latte Art",
+    "subjectSlug": "kaffee-mit-latte-art",
+    "description": "Eine Hand hält eine Tasse Kaffee mit einem Herz-Latte-Art-Muster, im Hintergrund sind getrocknete Blumen in einer weißen Vase zu sehen."
+  },
+  {
+    "originalFile": "scraped-05.jpg",
+    "file": "photos/restaurant/bluhender-magnolienbaum-und-sonnenschirm-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Blühender Magnolienbaum und Sonnenschirm",
+    "subjectSlug": "bluhender-magnolienbaum-und-sonnenschirm",
+    "description": "Ein blühender Magnolienbaum in voller Blüte über einem weißen Sonnenschirm vor einem Gebäude."
+  },
+  {
+    "originalFile": "scraped-06.jpg",
+    "file": "photos/restaurant/mitarbeiter-am-kaffeestand-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Mitarbeiter am Kaffeestand",
+    "subjectSlug": "mitarbeiter-am-kaffeestand",
+    "description": "Ein Mitarbeiter bereitet Getränke an einem mobilen Kaffeestand mit Espressomaschine und Snacks zu."
+  },
+  {
+    "originalFile": "scraped-07.jpg",
+    "file": "photos/dishes/kaffeebecher-mit-latte-art-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Kaffeebecher mit Latte Art",
+    "subjectSlug": "kaffeebecher-mit-latte-art",
+    "description": "Eine Person hält einen Kaffeebecher mit Latte Art und einer roten 'noli coffee to go'-Karte auf einem Bürgersteig, mit einem Hund im Hintergrund."
+  },
+  {
+    "originalFile": "scraped-08.jpg",
+    "file": "photos/_skipped/logo-und-illustration-eines-kaffeewagens-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Logo und Illustration eines Kaffeewagens",
+    "subjectSlug": "logo-und-illustration-eines-kaffeewagens",
+    "description": "Das Bild zeigt das Logo 'noli FRESH COFFEE TO GO' und eine weiße Strichzeichnung eines Kaffeewagens auf orangefarbenem Hintergrund."
+  },
+  {
+    "originalFile": "scraped-09.jpg",
+    "file": "photos/_skipped/logo-und-illustration-01.jpg",
+    "category": "skip",
+    "quality": "low",
+    "subject": "Logo und Illustration",
+    "subjectSlug": "logo-und-illustration",
+    "description": "Das Bild zeigt das Logo 'noli' mit dem Slogan 'FRESH COFFEE TO GO' und eine Illustration einer Kaffeemaschine auf einem Wagen."
+  },
+  {
+    "originalFile": "scraped-10.jpg",
+    "file": "photos/_skipped/logo-und-werbetext-fur-cafe-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Logo und Werbetext für Café",
+    "subjectSlug": "logo-und-werbetext-fur-cafe",
+    "description": "Das Bild zeigt das Logo 'noli' und einen beschreibenden Text über das Café auf orangefarbenem Hintergrund."
+  },
+  {
+    "originalFile": "scraped-11.jpg",
+    "file": "photos/dishes/kaffee-mit-herz-latte-art-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Kaffee mit Herz Latte Art",
+    "subjectSlug": "kaffee-mit-herz-latte-art",
+    "description": "Ein Kaffee in einem Pappbecher mit Herz-Latte-Art steht auf einem Tisch neben einem Zuckerspender."
+  },
+  {
+    "originalFile": "scraped-12.jpg",
+    "file": "photos/_skipped/zwei-personen-mit-kaffeebechern-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Zwei Personen mit Kaffeebechern",
+    "subjectSlug": "zwei-personen-mit-kaffeebechern",
+    "description": "Zwei Personen halten Kaffeebecher und stehen im Freien."
+  },
+  {
+    "originalFile": "scraped-13.jpg",
+    "file": "photos/dishes/kaffee-mit-latte-art-02.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Kaffee mit Latte Art",
+    "subjectSlug": "kaffee-mit-latte-art",
+    "description": "Eine Hand hält eine Tasse Kaffee mit Herz-Latte-Art vor einem grünen Hintergrund."
+  },
+  {
+    "originalFile": "scraped-14.jpg",
+    "file": "photos/dishes/kaffee-mit-latte-art-03.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Kaffee mit Latte Art",
+    "subjectSlug": "kaffee-mit-latte-art",
+    "description": "Ein Becher Kaffee mit kunstvoller Latte Art auf einem dunklen Tisch."
+  },
+  {
+    "originalFile": "scraped-15.jpg",
+    "file": "photos/dishes/latte-mit-herz-kunst-01.jpg",
+    "category": "dish",
+    "quality": "high",
+    "subject": "Latte mit Herz-Kunst",
+    "subjectSlug": "latte-mit-herz-kunst",
+    "description": "Ein Pappbecher mit Latte Macchiato und Herz-Latte-Art steht auf einem dunklen Tisch, mit einer Vase und einem Spülbecken im Hintergrund."
+  },
+  {
+    "originalFile": "scraped-16.jpg",
+    "file": "photos/restaurant/outdoor-foodstand-unter-magnolienbaum-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Outdoor-Foodstand unter Magnolienbaum",
+    "subjectSlug": "outdoor-foodstand-unter-magnolienbaum",
+    "description": "Eine Gruppe von Menschen steht an einem Outdoor-Foodstand unter einem blühenden Magnolienbaum."
+  },
+  {
+    "originalFile": "scraped-17.jpg",
+    "file": "photos/restaurant/auenbereich-eines-cafestands-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Außenbereich eines Caféstands",
+    "subjectSlug": "auenbereich-eines-cafestands",
+    "description": "Eine Gruppe von Menschen versammelt sich um einen Caféstand im Freien unter einem blühenden Baum."
+  },
+  {
+    "originalFile": "scraped-18.jpg",
+    "file": "photos/restaurant/outdoor-getrankestand-01.jpg",
+    "category": "restaurant",
+    "quality": "high",
+    "subject": "Outdoor-Getränkestand",
+    "subjectSlug": "outdoor-getrankestand",
+    "description": "Ein Outdoor-Getränkestand mit Eiskaffee, Menütafel und grünen Pflanzen im Hintergrund."
+  },
+  {
+    "originalFile": "scraped-19.jpg",
+    "file": "photos/owner/barista-am-kaffeestand-01.jpg",
+    "category": "owner",
+    "quality": "high",
+    "subject": "Barista am Kaffeestand",
+    "subjectSlug": "barista-am-kaffeestand",
+    "description": "Ein Mann bereitet an einem mobilen Kaffeestand ein Getränk zu."
+  },
+  {
+    "originalFile": "scraped-20.jpg",
+    "file": "photos/_skipped/werbung-fur-neues-cafe-01.jpg",
+    "category": "skip",
+    "quality": "high",
+    "subject": "Werbung für neues Café",
+    "subjectSlug": "werbung-fur-neues-cafe",
+    "description": "Das Bild zeigt eine Ankündigung für ein neues Café namens Noli mit dem Text 'Coming Soon' und 'Fresh Coffee To Go' sowie einem QR-Code."
+  }
+]
