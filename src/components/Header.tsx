@@ -49,8 +49,8 @@ export default function Header() {
           >
             <span
               aria-hidden="true"
-              className={`block w-32 h-12 sm:w-36 sm:h-14 lg:w-40 lg:h-16 transition-colors duration-500 ${
-                scrolled ? "bg-accent" : "bg-warm-white"
+              className={`block w-32 h-12 sm:w-36 sm:h-14 lg:w-40 lg:h-16 transition-colors duration-500 bg-accent ${
+                !scrolled ? "lg:bg-warm-white" : ""
               }`}
               style={{
                 WebkitMaskImage: "url(/assets/logo-mark.png)",

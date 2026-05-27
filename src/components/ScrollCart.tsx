@@ -20,12 +20,21 @@ export default function ScrollCart() {
     return window.innerHeight - padding * 2 - cartSize;
   };
 
+  const isMobile = () => window.innerWidth < 1024;
+
   const updatePosition = useCallback(() => {
     if (!cartRef.current) return;
     const pct = getScrollPct();
     const trackHeight = getTrackHeight();
     const y = 16 + pct * trackHeight;
     cartRef.current.style.transform = `translateY(${y}px)`;
+
+    // Hide on mobile when in first viewport (would collide with burger menu)
+    if (isMobile()) {
+      cartRef.current.style.opacity = window.scrollY > window.innerHeight ? "1" : "0";
+    } else {
+      cartRef.current.style.opacity = "1";
+    }
   }, []);
 
   useEffect(() => {
@@ -88,7 +97,7 @@ export default function ScrollCart() {
   return (
     <div
       ref={cartRef}
-      className="fixed top-0 right-2 z-[9999] will-change-transform"
+      className="fixed top-0 right-2 z-[9999] will-change-transform transition-opacity duration-300"
       style={{ cursor: "grab" }}
     >
       <img
