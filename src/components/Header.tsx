@@ -49,7 +49,7 @@ export default function Header() {
           >
             <span
               aria-hidden="true"
-              className={`block w-28 h-10 sm:w-32 sm:h-12 lg:w-36 lg:h-14 transition-colors duration-500 ${
+              className={`block w-32 h-12 sm:w-36 sm:h-14 lg:w-40 lg:h-16 transition-colors duration-500 ${
                 scrolled ? "bg-accent" : "bg-warm-white"
               }`}
               style={{

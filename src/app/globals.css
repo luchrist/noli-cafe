@@ -21,6 +21,10 @@
 
 html {
   scroll-behavior: smooth;
+  scrollbar-width: none;          /* Firefox */
+}
+html::-webkit-scrollbar {
+  display: none;                  /* Chrome/Safari */
 }
 
 body {
@@ -36,20 +40,6 @@ body {
   color: var(--color-charcoal);
 }
 
-/* Scrollbar styling */
-::-webkit-scrollbar {
-  width: 6px;
-}
-::-webkit-scrollbar-track {
-  background: var(--color-cream);
-}
-::-webkit-scrollbar-thumb {
-  background: var(--color-stone-light);
-  border-radius: 3px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: var(--color-stone);
-}
 
 /* Dish carousel animation */
 @keyframes carousel-scroll {
